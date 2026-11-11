@@ -1,0 +1,14 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Node dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
